@@ -1,0 +1,18 @@
+# Ignore environment file
+code/.env
+
+# Ignore video files
+*.mp4
+videos/
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
